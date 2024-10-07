@@ -4576,3 +4576,12 @@ java.lang.Exception: File not found: C:\Users\admin\Desktop\Spring-Boot-Practice
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-07 20:42:45.817
+!MESSAGE Classpath changed for project: BootJPAProj01-CRUDRepository
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-07 20:42:45.819
+!MESSAGE Classpath changed for project: BootJPAProj02-PandSRepository
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-07 20:42:45.821
+!MESSAGE Classpath changed for project: BootJPAProj03-JPARepository
